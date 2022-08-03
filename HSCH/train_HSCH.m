@@ -19,8 +19,7 @@ function [B,XW,YW] = train_HSCH(XTrain,YTrain,LTrain,NLTrain,param)
     dL = size(LTrain,2);
     dX = size(XTrain,2);
     dY = size(YTrain,2);
-    
-    a = (dL*(dL+2)+dL*sqrt(dL*(dL+2)))/4+eps;
+    a = (dL*(dL+2)+dL*sqrt(dL*(dL+2)))/4+eps; %More precise value can be experimentally obtained.
     
     
     % hash code learning

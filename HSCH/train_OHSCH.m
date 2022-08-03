@@ -19,8 +19,7 @@ function [B_new,XW,YW,Aux] = train_OHSCH(XTrain_new,YTrain_new,LTrain_new,NLTrai
     dL = size(LTrain_new,2);
     dX = size(XTrain_new,2);
     dY = size(YTrain_new,2);
-    
-    a = (dL*(dL+2)+dL*sqrt(dL*(dL+2)))/4+eps;
+    a = (dL*(dL+2)+dL*sqrt(dL*(dL+2)))/4+eps; %More precise value can be experimentally obtained.
     
     
     % hash code learning
