@@ -1,7 +1,7 @@
 close all; clear; clc;
 addpath(genpath('./HSCH/'));
 
-param.db_name ='MIRFLICKR_deep';
+param.db_name ='MIRFLICKR';
 param.nbits = 4;
 
 param.top_K = 2000;
