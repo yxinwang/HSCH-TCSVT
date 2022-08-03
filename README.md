@@ -7,7 +7,7 @@ This repo is the source code for the paper "A High-Dimensional Sparse Hashing Fr
 
 ### Running Environment
 ```matlab
-Matlab. 
+Matlab. Run main_demo.m
 ```
 
 ### Datasets
