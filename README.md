@@ -11,9 +11,9 @@ Matlab.
 ```
 
 ### Datasets
-We use three datasets to perform our experiments, i.e., IAPR TC-12, MIRFLICKR-25K, and NUS-WIDE datasets. You can download all dataset from pan.baidu.com. The links are listed as follows:
+We use three datasets to perform our experiments, i.e., IAPR TC-12, MIRFLICKR-25K, and NUS-WIDE. You can download all datasets using the following link:
+- https://pan.baidu.com/s/1MP1_t18bKE6Y8zYoJ3T8CA?pwd=mima
 
-- https://pan.baidu.com/s/1MP1_t18bKE6Y8zYoJ3T8CA Password: MIMA
 
 ### Citation
 If you find our approach useful in your research, please consider citing:
