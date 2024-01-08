@@ -11,8 +11,8 @@ Matlab. Run main_demo.m
 ```
 
 ### Datasets
-We use three datasets to perform our experiments, i.e., IAPR TC-12, MIRFLICKR-25K, and NUS-WIDE. You can download all datasets using the following link:
-- https://pan.baidu.com/s/1MP1_t18bKE6Y8zYoJ3T8CA?pwd=mima
+We use three datasets to perform our experiments, i.e., IAPRTC-12, MIRFLICKR, and NUSWIDE. You can download all datasets using the following link:
+- https://pan.baidu.com/s/1oLeC_pEQlSc9paD61i0kbA?pwd=j2im Password: j2im
 
 
 ### Citation
